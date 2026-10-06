@@ -1,9 +1,7 @@
 #  welcome.
 
-<p align="center">
-  <img src="./1.gif" width="400" />
-  <img src="./2.gif" width="400" />
-</p>
+![Gif 1](./1.gif)
+![Gif 2](./2.gif)
 
 # i do:
 

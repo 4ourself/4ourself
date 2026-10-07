@@ -1,7 +1,6 @@
 #  welcome.
 
-![Gif 1](./1.gif)
-![Gif 2](./2.gif)
+<img src="./2.gif" width="300" height="auto" alt="Description of GIF">
 
 # i do:
 

@@ -1,6 +1,7 @@
 #  welcome.
 
-<img src="[./2.gif](https://i.pinimg.com/originals/d9/3c/00/d93c00dc92a0e5fd0b064b596dc2f27a.gif)" width="300" alt="Description of GIF">
+<img src="https://i.pinimg.com/originals/d9/3c/00/d93c00dc92a0e5fd0b064b596dc2f27a.gif" width="300" alt="Description of GIF">
+
 
 
 # i do:

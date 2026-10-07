@@ -1,6 +1,7 @@
 #  welcome.
 
-<img src="./2.gif" width="300" height="auto" alt="Description of GIF">
+<img src="./2.gif" width="300" alt="Description of GIF">
+
 
 # i do:
 
